@@ -10,6 +10,7 @@
 * Create simple presentations with sent
 * Using hsetroot to set wallpapers on Linux
 * Multiple usages for dmenu
+* Yii2: how to setup all email to go to an specified email while in debug
 
 
 
